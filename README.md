@@ -29,7 +29,7 @@ Fitness Trainer App UI is a design implementaion of [Fitness App](https://dribbb
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
-## Created & Maintained By
+### Created & Maintained By
 
 [Rahul Samantara](https://github.com/developerRsam) ([Facebook](https://www.facebook.com/rahul.samantara.39))
 ([Insta](https://www.instagram.com/_mr_wanderlust/))([Insta2](https://www.instagram.com/rsdesigndevstudio/))
