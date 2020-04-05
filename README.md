@@ -8,7 +8,7 @@ Fitness Trainer App UI is a design implementaion of [Fitness App](https://dribbb
 <a href="https://github.com/developerRsam/Fitness-Trainer-App-UI/blob/master/apk/fitness-app.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 
-![alt text](https://github.com/developerRsam/Fitness-Trainer-App-UI/blob/master/Screenshots/fit_uidesign_git.png)
+![alt text](https://github.com/developerRsam/Fitness-Trainer-App-UI/blob/master/Screenshots/fit_cover.png)
 
 ### Don't forget to star ⭐ the repo, it motivates me to share more open source
 
